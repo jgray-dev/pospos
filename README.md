@@ -1,3 +1,8 @@
+# POSPOS
+some full stack, full business, restaurant management system.
+Build with Remix + TypeScript. WIP. Concept created 9/16/2024
+
+
 ## TODO:
 
 ### Restaurant side
